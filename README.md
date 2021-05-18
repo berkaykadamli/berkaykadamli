@@ -8,7 +8,7 @@ I'm Berkay Kadamlı. I talk to databases for my web applications.<br>
 -🌱 I'm currently learning Java Spring Boot <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 
 ## You know now where to find me
-<a href="https://github.com/berkaykadamli" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/berkaykadamli" ><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 
 
