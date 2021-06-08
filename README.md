@@ -16,8 +16,9 @@ I'm Berkay Kadamlı. I talk to databases for my web applications.<br>
 </p>
 
 ## You know now where to find me
+<a href="mailto:berkaykadamli@gmail.com">
+<img src="https://camo.githubusercontent.com/4a21774b9d6abd72ff3f8f2abf20cb44d95ea2c8c19b273b9df62a33266d087e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width:100%;"></a>
 
-<a href="https://github.com/berkaykadamli" target="_blank" ><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="left"></a>
 <a href="https://www.linkedin.com/in/berkay-kadaml%C4%B1-50b126196/" target="_blank" ><img src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" width="22px" align="left" ></a>
 
 <a href="https://www.instagram.com/berkayykdml/"> <img src ="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" align="left" width="22px"></a>
