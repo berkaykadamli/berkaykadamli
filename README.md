@@ -7,13 +7,6 @@
 I'm Berkay Kadamlı. I talk to databases for my web applications.<br>
 -🌱 I'm currently learning Java Spring Boot and whatever interests me 
 
-## Languages and Tools :
-<p>
-<img src="https://camo.githubusercontent.com/4178fa5460dda553522cb0401effb75a9764fa7b161bb374ff54c0f3dc039008/68747470733a2f2f65372e706e676567672e636f6d2f706e67696d616765732f3738352f3134352f706e672d636c69706172742d6a6176612d646576656c6f706d656e742d6b69742d736f6674776172652d646576656c6f706d656e742d6b69742d636f6d70757465722d70726f6772616d6d696e672d636f6d70757465722d69636f6e732d70726f6772616d6d696e672d6c616e67756167652d69636f6e2d746578742d6c6f676f2d7468756d626e61696c2e706e67" width="30px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" width="30px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30px">
-</p>
 
 ## You know now where to find me
 <a href="mailto:berkaykadamli@gmail.com">
@@ -26,6 +19,14 @@ I'm Berkay Kadamlı. I talk to databases for my web applications.<br>
 <a href="https://www.hackerrank.com/berkaykadamli" target="_blank"><img  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" align="left"></a>
 <!--<a href="mailto:berkaykadamli@gmail.com" ><img src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" ></a>-->
 
+
+## Languages and Tools :
+<p>
+<img src="https://camo.githubusercontent.com/4178fa5460dda553522cb0401effb75a9764fa7b161bb374ff54c0f3dc039008/68747470733a2f2f65372e706e676567672e636f6d2f706e67696d616765732f3738352f3134352f706e672d636c69706172742d6a6176612d646576656c6f706d656e742d6b69742d736f6674776172652d646576656c6f706d656e742d6b69742d636f6d70757465722d70726f6772616d6d696e672d636f6d70757465722d69636f6e732d70726f6772616d6d696e672d6c616e67756167652d69636f6e2d746578742d6c6f676f2d7468756d626e61696c2e706e67" width="30px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" width="30px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30px">
+</p>
 
 
 
