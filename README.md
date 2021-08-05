@@ -6,7 +6,7 @@
 
 ## About Me 
 I'm Berkay Kadamlı. I talk to databases for my web applications.<br>
--🌱 I'm currently learning Java Spring Boot and whatever interests me 
+-🌱 I'm currently learning Java Spring Boot, Pyspark and whatever interests me.
 
 
 ## You know now where to find me
