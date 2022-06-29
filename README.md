@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Berkay Kadamlı</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkaykadamli&label=Profile%20views&color=0e75b6&style=flat" alt="berkaykadamli" /> </p>
 
-- 🌱 I’m currently learning **Sap, Hybris**
+- 🌱 I’m currently learning **Java Spring Security**
 
 - 📫 How to reach me **berkaykadamli@gmail.com**
 
